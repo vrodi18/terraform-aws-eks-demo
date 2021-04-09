@@ -74,6 +74,3 @@ For more info, please see the [variables file](?tab=inputs).
 
 
 
-If you have any issues please feel free to submit the issue [new issue](https://github.com/fuchicorp/terraform-aws-eks/issues/new) 
-
-Developed by FuchiCorp members 
